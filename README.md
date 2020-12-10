@@ -1,4 +1,4 @@
-## Hi there, I am Sahil Khare (Dionysus099) 😁
+## Hi there, I am Sahil Khare (Dionysus099) 😄
 
 I am a student of Eletronics and Communication Engineering at IIIT Bangalore, India.
 
