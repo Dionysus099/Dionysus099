@@ -28,7 +28,7 @@ I am interested in Game Development and Web Development.
 
 <img height="32" width="32" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" /> [Dev.to]
 
-<img height="32" width="32" src="https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg" /> [freeCodeCamp]
+<img height="32" width="32" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/ikqra03zdnggljdu5vv0" /> [freeCodeCamp]
 
 <img height="32" width="32" src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" /> [Codeforces] (Not Active)
 
