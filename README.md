@@ -14,7 +14,7 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 ---
 
-###   How to Connect:
+###   Online Accounts:
 
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/github.png" /> [GitHub]
 
