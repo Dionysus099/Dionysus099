@@ -10,9 +10,12 @@ I am interested in Game Development and Web Development.
 - ⚡ Fun fact: I am not good at Academics ☹.
 
 
-### :octocat:  Github Stats
+###   Github Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Dionysus099)
 
+###   How to Connect
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
