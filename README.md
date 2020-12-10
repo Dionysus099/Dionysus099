@@ -20,6 +20,8 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 <img height="32" width="32" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" /> [Dev.to]
 
+<img height="32" width="32" src="https://pbs.twimg.com/profile_images/1232053138212847617/EPE--hw8_400x400.jpg" /> [CircuitVerse]
+
 <img height="32" width="32" src="https://img.icons8.com/fluent/2x/gmail.png" /> [Gmail]
 
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /> [HackerRank]
@@ -70,6 +72,7 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 [GitHub]: https://github.com/Dionysus099
 [Dev.to]: https://dev.to/dionysus099
+[CircuitVerse]: https://circuitverse.org/users/17109
 [Gmail]: mailto:sahilkhare099@gmail.com
 [HackerRank]: https://www.hackerrank.com/Dionysus099
 [Codeforces]: https://codeforces.com/profile/Sahil099
