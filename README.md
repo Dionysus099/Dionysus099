@@ -37,22 +37,22 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 ### Languages Currently I am Learning and Improving:
 
-<img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" /> 
-<img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> 
-<img height="32" width="32" src="https://img.icons8.com/color/2x/bootstrap.png" /> 
+<img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/bootstrap.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-sharp-logo.png" />
 
 ---
 
 ### Game Engines Currently I am Working on:
 
-<img height="32" width="32" src="https://img.icons8.com/nolan/2x/unity.png" />
-<img height="32" width="32" src="https://img.icons8.com/nolan/2x/unreal-engine.png" />
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/unity.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/unreal-engine.png" /> &nbsp;
 <img height="32" width="32" src="https://www.pngkit.com/png/full/873-8733598_custom-drawing-in-2d-godot-engine-latest-documentation.png" />
 
 ---
