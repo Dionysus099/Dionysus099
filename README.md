@@ -12,7 +12,7 @@ I am interested in Game Development and Web Development.
 
 ###   Github Stats:
 
-![github stats](https://github-readme-stats.dionysus099.vercel.app//api?username=Dionysus099)
+![github stats](https://github-readme-stats.vercel.app/api?username=Dionysus099)](https://github.com/Dionysus099/github-readme-stats)
 
 ###   How to Connect:
 
