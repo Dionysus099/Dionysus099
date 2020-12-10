@@ -5,9 +5,9 @@ I am a student of Eletronics and Communication Engineering at IIIT Bangalore, In
 I am interested in Game Development and Web Development. <img height="32" width="32" src="https://img.icons8.com/nolan/2x/programming.png" />
 
 - 💻 I’m currently learning C#, HTML, CSS, JavaScript, GDScript.
-- 💻 I’m currently improving Java, C++, Python.
+- 💻 I’m currently practicing Java, Python, C++, C.
 - ⭐ I'm interested in Music 🎼 & Football ⚽.
-- 🤔 I’m looking for Suggestions.
+- 🤔 I’m looking for Suggestions to enhance my Skills.
 - 🥅 Goals: Learn more and Contribute more.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am not good at Academics ☹.
@@ -24,9 +24,9 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /> [HackerRank]
 
-<img height="32" width="32" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/ikqra03zdnggljdu5vv0" /> [freeCodeCamp]
-
 <img height="32" width="32" src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" /> [Codeforces] (Not Active)
+
+<img height="32" width="32" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/ikqra03zdnggljdu5vv0" /> [freeCodeCamp]
 
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/facebook-new.png" /> [Facebook]
 
@@ -69,11 +69,11 @@ I am interested in Game Development and Web Development. <img height="32" width=
 ---
 
 [GitHub]: https://github.com/Dionysus099
-[Facebook]: https://facebook.com/sahilkhare099
-[Instagram]: https://instagram.com/i_saw.hill
+[Dev.to]: https://dev.to/dionysus099
 [Gmail]: mailto:sahilkhare099@gmail.com
 [HackerRank]: https://www.hackerrank.com/Dionysus099
-[Dev.to]: https://dev.to/dionysus099
-[freeCodeCamp]: https://www.freecodecamp.org/fccb5a7255c-4a62-46ef-bd96-f1312e8a0fc2
 [Codeforces]: https://codeforces.com/profile/Sahil099
+[freeCodeCamp]: https://www.freecodecamp.org/fccb5a7255c-4a62-46ef-bd96-f1312e8a0fc2
+[Facebook]: https://facebook.com/sahilkhare099
+[Instagram]: https://instagram.com/i_saw.hill
 [Reddit]: https://www.reddit.com/user/Dionysus099
