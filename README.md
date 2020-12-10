@@ -18,19 +18,22 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/github.png" /> [GitHub]
 
-<img height="32" width="32" src="https://img.icons8.com/nolan/2x/facebook-new.png" /> [Facebook]
-
-<img height="32" width="32" src="https://img.icons8.com/fluent/2x/instagram-new.png" /> [Instagram]
+<img height="32" width="32" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" /> [Dev.to]
 
 <img height="32" width="32" src="https://img.icons8.com/fluent/2x/gmail.png" /> [Gmail]
 
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /> [HackerRank]
 
-<img height="32" width="32" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" /> [Dev.to]
-
 <img height="32" width="32" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/ikqra03zdnggljdu5vv0" /> [freeCodeCamp]
 
 <img height="32" width="32" src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" /> [Codeforces] (Not Active)
+
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/facebook-new.png" /> [Facebook]
+
+<img height="32" width="32" src="https://img.icons8.com/fluent/2x/instagram-new.png" /> [Instagram]
+
+
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/reddit.png" /> [Reddit]
 
 
 ---
@@ -73,3 +76,4 @@ I am interested in Game Development and Web Development. <img height="32" width=
 [Dev.to]: https://dev.to/dionysus099
 [freeCodeCamp]: https://www.freecodecamp.org/fccb5a7255c-4a62-46ef-bd96-f1312e8a0fc2
 [Codeforces]: https://codeforces.com/profile/Sahil099
+[Reddit]: https://www.reddit.com/user/Dionysus099
