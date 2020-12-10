@@ -4,15 +4,11 @@ I am a student of Eletronics and Communication Engineering at IIIT Bangalore, In
 
 I am interested in Game Development and Web Development.
 
-- 💻 I’m currently learning C#, HTML, CSS, JavaScript.
-- 💻 I’m currently improving Java, C++, Python.
+- 💻 I’m currently learning C#, HTML, CSS, JavaScript, GDScript.
+- 💻 I’m trying to be proficient in Java, C++, Python.
 - ⭐ I'm interested in Music 🎼 & Football ⚽.
 - ⚡ Fun fact: I am not good at Academics ☹.
 
-
-###   Github Stats:
-
-![github stats](https://github-readme-stats-new.dionysus099.vercel.app/api?username=Dionysus099)
 
 ###   How to Connect:
 
@@ -25,3 +21,7 @@ I am interested in Game Development and Web Development.
 ### Engines I am Working on:
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/godotengine.svg" />
+
+###   Github Stats:
+
+![github stats](https://github-readme-stats-new.dionysus099.vercel.app/api?username=Dionysus099)
