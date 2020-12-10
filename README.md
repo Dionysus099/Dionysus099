@@ -12,9 +12,11 @@ I am interested in Game Development and Web Development.
 
 ###   How to Connect:
 
-[![1.1]][1]
-[![2.1]][2]
-[![3.1]][3]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> [GitHub]
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> [Facebook]
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [Instagram]
 
 
 ### Languages Currently I am Learning and Improving:
@@ -32,10 +34,8 @@ I am interested in Game Development and Web Development.
 ![github stats](https://github-readme-stats-new.dionysus099.vercel.app/api?username=Dionysus099)
 
 
-[1.1]: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> 
-[2.1]: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> 
-[3.1]: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-[1]: https://github.com/Dionysus099
-[2]: https://facebook.com/sahilkhare099
-[3]: https://instagram.com/i_saw.hill
+
+[GitHub]: https://github.com/Dionysus099
+[Facebook]: https://facebook.com/sahilkhare099
+[Instagram]: https://instagram.com/i_saw.hill
