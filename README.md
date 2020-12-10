@@ -32,7 +32,7 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/facebook-new.png" /> [Facebook]
 
-<img height="32" width="32" src="https://img.icons8.com/fluent/2x/instagram-new.png" /> [Instagram]
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/instagram-new.png" /> [Instagram]
 
 
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/reddit.png" /> [Reddit]
