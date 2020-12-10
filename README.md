@@ -16,21 +16,21 @@ I am interested in Game Development and Web Development.
 
 ###   How to Connect:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> [GitHub]
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/github.png" /> [GitHub]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> [Facebook]
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/facebook-new.png" /> [Facebook]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [Instagram]
+<img height="32" width="32" src="https://img.icons8.com/fluent/2x/instagram-new.png" /> [Instagram]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> [Gmail]
+<img height="32" width="32" src="https://img.icons8.com/fluent/2x/gmail.png" /> [Gmail]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /> [HackerRank]
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /> [HackerRank]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" /> [Dev.to]
+<img height="32" width="32" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" /> [Dev.to]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /> [freeCodeCamp]
+<img height="32" width="32" src="https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg" /> [freeCodeCamp]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" /> [Codeforces] (Not Active)
+<img height="32" width="32" src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" /> [Codeforces] (Not Active)
 
 
 ---
