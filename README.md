@@ -16,7 +16,7 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 ###   Online Accounts:
 
-<img height="32" width="32" src="https://img.icons8.com/nolan/2x/github.png" /> [GitHub]
+<img height="32" width="32" src="https://img.icons8.com/nolan/2x/github.png" target="_blank" /> [GitHub]
 
 <img height="32" width="32" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" /> [Dev.to]
 
