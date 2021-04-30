@@ -4,11 +4,10 @@ I am a student of Eletronics and Communication Engineering at IIIT Bangalore, In
 
 I am interested in Game Development and Web Development. <img height="32" width="32" src="https://img.icons8.com/nolan/2x/programming.png" />
 
-- 💻 I’m currently learning C#, HTML, CSS, JavaScript, GDScript.
-- 💻 I’m currently practicing Java, Python, C++, C.
+- 💻 I’m currently practicing Java, Python, C++, C, C#, HTML, CSS, JavaScript, GDScript.
 - ⭐ I'm interested in Music 🎼 & Football ⚽.
 - 🤔 I’m looking for Suggestions to enhance my Skills.
-- 🥅 Goals: Learn more and Contribute more.
+- 🥅 Goals: To Learn more and Contribute more.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am not good at Academics ☹.
 
@@ -39,7 +38,7 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 ---
 
-### Languages Currently I am Learning and Improving:
+### Languages Currently I am Practicing:
 
 <img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" /> &nbsp;
