@@ -43,7 +43,7 @@ I am interested in App Development, Game Development and Web Development. <img h
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" /> &nbsp;
-<img height="32" width="32" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.pngg" /> &nbsp;
+<img height="32" width="32" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> &nbsp;
