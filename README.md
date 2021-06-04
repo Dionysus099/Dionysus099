@@ -2,9 +2,8 @@
 
 I am a student of Eletronics and Communication Engineering at IIIT Bangalore, India.
 
-I am interested in Game Development and Web Development. <img height="32" width="32" src="https://img.icons8.com/nolan/2x/programming.png" />
+I am interested in App Development, Game Development and Web Development. <img height="32" width="32" src="https://img.icons8.com/nolan/2x/programming.png" />
 
-- 💻 I’m currently practicing Java, Python, C++, C, C#, HTML, CSS, JavaScript, GDScript.
 - ⭐ I'm interested in Music 🎼 & Football ⚽.
 - 🤔 I’m looking for Suggestions to enhance my Skills.
 - 🥅 Goals: To Learn more and Contribute more.
@@ -38,12 +37,13 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 ---
 
-### Languages Currently I am Practicing:
+### Languages I am Practicing:
 
 <img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-programming.png" /> &nbsp;
+<img height="32" width="32" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.pngg" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> &nbsp;
@@ -52,7 +52,15 @@ I am interested in Game Development and Web Development. <img height="32" width=
 
 ---
 
-### Game Engines Currently I am Working on:
+### Platforms/Frameworks I am Working on:
+
+<img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" /> &nbsp;
+<img height="32" width="32" src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354" /> &nbsp;
+<img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
+
+---
+
+### Game Engines I am Working on:
 
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/unity.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/unreal-engine.png" /> &nbsp;
