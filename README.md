@@ -37,7 +37,7 @@ I am interested in App Development, Game Development and Web Development. <img h
 
 ---
 
-### Languages I am Practicing:
+### Languages I practice:
 
 <img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" /> &nbsp;
@@ -52,15 +52,16 @@ I am interested in App Development, Game Development and Web Development. <img h
 
 ---
 
-### Platforms/Frameworks I am Working on:
+### Platforms/Frameworks I work on:
 
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" /> &nbsp;
 <img height="32" width="32" src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354" /> &nbsp;
-<img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
+<img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" /> &nbsp;
+<img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png" />
 
 ---
 
-### Game Engines I am Working on:
+### Game Engines I work on:
 
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/unity.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/nolan/2x/unreal-engine.png" /> &nbsp;
