@@ -47,7 +47,6 @@ I am interested in App Development, Game Development and Web Development. <img h
 <img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> &nbsp;
-<img height="32" width="32" src="https://img.icons8.com/color/2x/bootstrap.png" /> &nbsp;
 <img height="32" width="32" src="https://img.icons8.com/color/2x/c-sharp-logo.png" />
 
 ---
@@ -57,6 +56,7 @@ I am interested in App Development, Game Development and Web Development. <img h
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" /> &nbsp;
 <img height="32" width="32" src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354" /> &nbsp;
 <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" /> &nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/bootstrap.png" /> &nbsp;
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png" />
 
 ---
