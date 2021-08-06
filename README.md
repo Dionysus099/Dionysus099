@@ -1,8 +1,9 @@
 ## Hi there!!, I am Sahil Khare (Dionysus099) 😄
 
-I am a student of Eletronics and Communication Engineering at IIIT Bangalore, India.
+I am a student of Eletronics and Communication Engineering at [IIIT Bangalore, India](https://www.iiitb.ac.in/).
 
-I am interested in App Development, Game Development and Web Development. <img height="32" width="32" src="https://img.icons8.com/nolan/2x/programming.png" />
+I am interested in App Development, Game Development and Web Development. <img height="32" width="32" src="https://img.icons8.com/nolan/2x/programming.png" /> 
+<!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" /> -->
 
 - ⭐ I'm interested in Music 🎼 & Football ⚽.
 - 🤔 I’m looking for Suggestions to enhance my Skills.
